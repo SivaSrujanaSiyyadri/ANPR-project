@@ -136,4 +136,4 @@ else:
         cv2.destroyAllWindows()
         st.warning('⚠ The Web-Camera is currently disabled. 😯')
 
-st.markdown("<br><hr><center>Made with ❤️ by <a href='mailto:ralhanprateek@gmail.com?subject=Automatic Number Plate Recognition WebApp!&body=Please specify the issue you are facing with the app.'><strong>Prateek Ralhan</strong></a></center><hr>", unsafe_allow_html=True)
+st.markdown("<br><hr><center>Made with ❤️ by <a href='mailto:siyyadrisivasrujana@gmail.com?subject=Automatic Number Plate Recognition WebApp!&body=Please specify the issue you are facing with the app.'><strong>Siva Srujana</strong></a></center><hr>", unsafe_allow_html=True)
